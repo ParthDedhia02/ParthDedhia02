@@ -15,7 +15,7 @@
 <!-- Social Media and Contact -->
 <p align="left">
   <a href="https://www.linkedin.com/in/parth-dedhia-0b2a1a246/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/parth-dedhia" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/ParthDedhia02" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
 </p>
 
 <!-- Languages and Tools -->
